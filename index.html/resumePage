@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>My Webfolio</title>
+    </head>
+    
+    <body>
+            <h1>Harvy's Webfolio</h1>
+            <img src= "https://scontent.fmnl33-6.fna.fbcdn.net/v/t39.30808-6/468733266_9011220332233033_1453485758629516427_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHPVhdm8pOv-jePB1LsyG6Ejc804mbXtliNzzTiZte2WDUUrhEwUocs6CumcjkmeOPWTVV4rXT0L_MiiJPHbCRM&_nc_ohc=kXd7QyrydFIQ7kNvgG-0FcA&_nc_zt=23&_nc_ht=scontent.fmnl33-6.fna&_nc_gid=AgUZuxgxcgoNYJdE2oUb88H&oh=00_AYBh4yMd08eikcKpCv8-jq8jIrpT66Kr2ghWeb1mcp4sVA&oe=679FFD70" alt="Harvy Sarmiento" width="250" height="250" />
+        
+        <div>
+            <p>I am Harvy Sarmiento, an <strong>Aspiring Full-Stack Software Engineer</strong>.<br>
+            As a Corporate Recruiter for almost 4 years, I brought all the knowledge<br>
+            that I gathered throughout the years of recruiting for tech.</p>
+        </div>
+
+        <div>
+            <p>As I gathered knowledge in programming language, methodologies,<br> 
+            technicalities, and even the best practices from all the candidates and<br> 
+            colleagues that I met. I fell in love with how the tech industry actually<br> 
+            works and decided to make a huge leap of faith.</p>
+        </div>
+
+        <div>
+            <p>Now, I'm currently a Full-Stack Software Developer at<br> 
+            Virtual Variations Services, a local startup company from Baguio City.<br> I was previously an Intern at Atmos Cloud Solutions where I started my<br> journey as a Software Engineer Intern where I learned my first ever<br> programming which is Python and had my first-ever tech project, which is<br> an Automated fingerprint timelog and a VR game called Squat Algorithm.</p>
+        </div>
+
+        <div>
+            <h4>These are my technical skills:</h4>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Javascript</li>
+                <li>PHP</li>
+                <li>Object-Oriented Programming(Python & PHP)</li>
+                <li>Server Setup(XAMPP)</li>
+                <li>MVC Framework</li>
+                <li>Fetch API</li>
+                <li>Debugging</li>
+                <li>Researching</li>
+                <li>Running Linux Command</li>
+                <li>React</li>
+            </ul>
+        </div>
+
+        <div>
+            <h4>These are my soft skills:</h4>
+            <ul>
+                <li>Communication</li>
+                <li>Problem-Solving</li>
+                <li>Teamwork</li>
+                <li>Adaptability</li>
+                <li>Time Management</li>
+                <li>Work Ethics</li>
+                <li>Self-Confidence</li>
+                <li>Patience</li>
+                <li>Attention to Detail</li>
+                <li>Flexibility</li>
+            </ul>
+        </div>
+
+        <div>
+            
+        </div>
+    </body>
+        
+        <div id="contact">
+            <p>
+            <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">Email</a><br><br>
+            <a href="Phone:+639764071934" target="_blank">Phone</a><br><br>
+            <a href="https://www.linkedin.com/in/harvey-sarmiento-8185151b8/" target="_blank">Linkedin</a>
+            <a href="https://web.facebook.com/Bengjii99/" target="_blank">Facebook</a></p>
+            <a href="https://github.com/sarmientobengjii" target="_blank">Github</a></p>
+            <a href="/portfolioPage" target="_blank">Portfolio</a>
+        </p>
+        </div>   
+</html>
