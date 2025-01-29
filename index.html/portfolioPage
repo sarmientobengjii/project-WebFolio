@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Portfolio</title>
+    </head>
+    
+    <body>
+        <h1>My Notable Projects</h1>
+
+        
+        <div>
+            <h2>Automatic Fingerprint Timelog</h2>
+            <ul>
+                <li></li>
+            </ul>
+        </div>
+
+        <div>
+            <h2>VR Game: Squat Algorithm</h2>
+            <ul>
+                <li></li>
+            </ul>
+        </div>
+
+        <div>
+            <h2>Virtual Variations Services Project</h2>
+            <ul>
+                <li></li>
+            </ul>
+        </div>
+    </body>
+</html>
